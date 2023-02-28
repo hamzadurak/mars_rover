@@ -42,9 +42,6 @@ Test output:
 1 3 N
 5 1 E
 ```
-## Requirement
-- PHP version >= 7.0
-- PHPUnit
 
 ## Installation
 ```
@@ -54,9 +51,4 @@ $ composer install
 ## Start
 ```
 $ php src/index.php
-```
-
-## Unit Testing
-```
-$ phpunit
 ```
